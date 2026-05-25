@@ -1,4 +1,4 @@
-# UIDAI Credential Wallet PWA
+# UIDAI DIGITAL WALLET
 
 ## Features
 - Responsive Credential Dashboard
